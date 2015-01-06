@@ -29,4 +29,4 @@ k-means 是一個聚類 (Cluster) 的方式，依照著物以類聚去分群
 
 ### ipython notebook
 --------------
-[線上看(http://hpdswy.ee.ncku.edu.tw/~wy/git_project/kmeans/k-means.ipynb)
+[線上看](http://hpdswy.ee.ncku.edu.tw/~wy/git_project/kmeans/k-means.ipynb)
